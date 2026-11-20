@@ -1,0 +1,10 @@
+{
+  "project": "ReadyGrid",
+  "title": "Emergency Supply Readiness",
+  "sector": "Disaster Preparedness",
+  "subject": "supply depot",
+  "metric": "Missing kits",
+  "unit": "kits",
+  "threshold": 5,
+  "sample": "Depot A"
+}
